@@ -1,4 +1,4 @@
 from django.contrib import admin
-from list.models import List
+from links.models import Link
 # Register your models here.
-admin.site.register(List)
+admin.site.register(Link)
